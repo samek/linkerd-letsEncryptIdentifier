@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/linkerd-plugin-letsencript.iml" filepath="$PROJECT_DIR$/.idea/modules/linkerd-plugin-letsencript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/linkerd-plugin-letsencript-build.iml" filepath="$PROJECT_DIR$/.idea/modules/linkerd-plugin-letsencript-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poponlineIdentifiers.iml" filepath="$PROJECT_DIR$/.idea/modules/poponlineIdentifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poponlineIdentifiers-build.iml" filepath="$PROJECT_DIR$/.idea/modules/poponlineIdentifiers-build.iml" />
+    </modules>
+  </component>
+</project>
